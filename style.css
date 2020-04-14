@@ -25,7 +25,7 @@ html, body {
 }
 
 .social-media li {
-  float: left;
+    display: inline;
 }
 
 .social-media li a {
