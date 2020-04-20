@@ -1,2 +1,2 @@
 # olliegardner.github.io
-Personal website developed with github.io
+Personal website hosted with github.io pages
